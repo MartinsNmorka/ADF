@@ -1,0 +1,15 @@
+{
+	"name": "DemoADataFac",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52598e16-c9d3-4c8c-8f12-88a5adaf6628",
+		"tenantId": "76453e1d-30f1-4222-9f07-bef44cb5de67"
+	}
+}
